@@ -1,0 +1,11 @@
+{
+  "name": "n8n-vyra",
+  "version": "1.0.0",
+  "description": "n8n custom build for Vyra Digital",
+  "scripts": {
+    "build": "echo 'build completed'"
+  },
+  "dependencies": {
+    "n8n": "^1.0.0"
+  }
+}
