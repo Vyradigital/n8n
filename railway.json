@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "N8N_EDITION": "community"
+    }
+  },
+  "deploy": {
+    "startCommand": "npx n8n"
+  }
+}
